@@ -1,24 +1,23 @@
-# vue2-stu
+# leesin Vue2 
 
-## Project setup
+## 包下载
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### 项目启动
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+### 项目构建
 ```
 yarn build
 ```
 
-### Lints and fixes files
+### 格式化
 ```
 yarn lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
